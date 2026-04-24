@@ -3,9 +3,9 @@ Este proyecto es una aplicación de escritorio desarrollada en Python utilizando
 
 #Características
 * **Login de Seguridad:** Acceso controlado mediante usuario y contraseña validados desde un archivo externo.
-* **Interfaz Moderna:** Diseño responsivo y estético gracias a CustomTkinter.
+* **Interfaz Moderna:** Diseño gracias a CustomTkinter.
 * **Consultas Complejas:** 10 filtros avanzados realizados con **Pandas** y **NumPy** que analizan tendencias, promedios y correlaciones en los datos.
-* **Separación de Vistas:** Menú de navegación y visualización de resultados en frames independientes.
+* **Separación de Vistas:** Menú de navegación y visualización de resultados en diferentes frames.
 
 ##Requisitos previos
 Para ejecutar este proyecto, necesitas tener instalado Python y las siguientes librerías:
